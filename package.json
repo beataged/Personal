@@ -10,6 +10,7 @@
   "author": "beata gedgaudaite",
   "license": "ISC",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
     "live-server": "^1.2.1"
   }
 }
