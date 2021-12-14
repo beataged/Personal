@@ -1,12 +1,16 @@
 #home{
 	width:100vw;
 	height:100vh;
-	background: rgb(144,121,130);
-	background: radial-gradient(circle, rgba(144,121,130,1) 0%, rgba(192,202,213,1) 100%);
 	display:flex;
-	flex-direction: row;
+	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	background-image: url("../../img/photo-1525351549016-1ddd272c8315.png");
+	background-repeat: no-repeat;
+	background-size:cover;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 50px; 
+	font-style: italic;
 ;}
 
 #home img{
@@ -14,12 +18,3 @@
 	height: 400px;
 }
 
-#home #aboutme{
-	width: 400px;
-	height: 400px;
-	margin-right: 20px;
-	display:flex;
-	flex-direction:column;
-	justify-content: center;
-	align-items: center;
-}

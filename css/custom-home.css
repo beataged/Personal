@@ -9,3 +9,5 @@
 
 /* components */
 @import './components/home.css';
+@import './components/about-me.css';
+@import './components/education.css'
